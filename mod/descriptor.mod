@@ -1,5 +1,6 @@
 name="[Deprecated] Space Fauna Multiple Resolutions Fix"
 tags={
+	"Deprecated"
 	"Diplomacy"
 	"Fixes"
 	"Gameplay"
