@@ -1,3 +1,5 @@
+**_DEPRECATED:_** Paradox has applied a similar fix in 3.1.1 "Lem" - if you have that version or higher, you do not need this mod.  It remains listed for players who choose to play in the 3.0.* "Dick" versions of Stellaris.
+
 # Overview
 
 Are you tired of not being able to protect the Space Amoebas and the Tiyanki at the same time?  Then this mod is for you!
@@ -15,7 +17,7 @@ those live in a different file.  If another mod only changes the resolutions the
 
 This mod is not compatible with achievements because it overwrites a core Stellaris file.
 
-### Post-Game Start
+### When to Install
 
 This mod can be safely added or removed from your savegame after the game has started.  It alters a single game object, but will not negitively impact your savegame.  If you remove it, your game will work normally.
 
@@ -24,6 +26,7 @@ This mod can be safely added or removed from your savegame after the game has st
 * 1.0.0 Initial version
 * 1.0.1 Flagged as compatible with Stellaris 3.0.* (no script changes)
 * 1.0.2 Update README, remove extra image to keep distribution lightweight (no script changes)
+* 1.0.3 Mark as deprecated - unnecessary in Stellaris 3.1.1 "Lem" and higher
 
 ## Bug Report
 
@@ -33,7 +36,7 @@ This mod can be safely added or removed from your savegame after the game has st
 
 ## Source Code
 
-[Hosted on Github](https://github.com/corsairmarks/space_fauna_resolutions_fix)
+Hosted on [GitHub](https://github.com/corsairmarks/space_fauna_resolutions_fix)
 
 ### Development Notes
 

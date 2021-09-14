@@ -1,3 +1,5 @@
+[b][i]DEPRECATED:[/i][/b] Paradox has applied a similar fix in 3.1.1 "Lem" - if you have that version or higher, you do not need this mod.  It remains listed for players who choose to play in the 3.0.* "Dick" versions of Stellaris.
+
 [h1]Overview[/h1]
 
 Are you tired of not being able to protect the Space Amoebas and the Tiyanki at the same time?  Then this mod is for you!
@@ -15,17 +17,13 @@ those live in a different file.  If another mod only changes the resolutions the
 
 This mod is not compatible with achievements because it overwrites a core Stellaris file.
 
-[h3]Post-Game Start[/h3]
+[h3]When to Install[/h3]
 
 This mod can be safely added or removed from your savegame after the game has started.  It alters a single game object, but will not negitively impact your savegame.  If you remove it, your game will work normally.
 
 [h2]Changelog[/h2]
 
-[list]
-[*]1.0.0 Initial version
-[*]1.0.1 Flagged as compatible with Stellaris 3.0.* (no script changes)
-[*]1.0.2 Update README, remove extra image to keep distribution lightweight (no script changes)
-[/list]
+See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2470984445]Change Notes[/url]
 
 [h2]Bug Report[/h2]
 
