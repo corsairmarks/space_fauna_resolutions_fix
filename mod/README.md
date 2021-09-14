@@ -6,20 +6,17 @@ Are you tired of not being able to protect the Space Amoebas and the Tiyanki at 
 
 # Changes
 
-This mod replaces the `common/resolution_categories/00_resolution_categories.txt` file that defines most of the Galactic Community
-resolutions categories.  The only change is to add the tag `multiple_active_resolutions = yes` to the Space Fauna category.
+This mod replaces the `common/resolution_categories/00_resolution_categories.txt` file that defines most of the Galactic Community resolutions categories.  The only change is to add the tag `multiple_active_resolutions = yes` to the Space Fauna category.
 
 ## Compatibility
  
-Because it replaces a core Stellaris file, this mod is inherently incompatible with any other mods that overwrite the same file.
-If another mod only changes resolution categories for the Galactic Custodian/Galactic Imperium then it might be compatible with this one -
-those live in a different file.  If another mod only changes the resolutions themselves, it should be compatible with this one.
+Because it replaces a core Stellaris file, this mod is inherently incompatible with any other mods that overwrite the same file.  If another mod only changes resolution categories for the Galactic Custodian/Galactic Imperium then it might be compatible with this one - those live in a different file.  If another mod only changes the resolutions themselves, it should be compatible with this one.
 
 This mod is not compatible with achievements because it overwrites a core Stellaris file.
 
 ### When to Install
 
-This mod can be safely added or removed from your savegame after the game has started.  It alters a single game object, but will not negitively impact your savegame.  If you remove it, your game will work normally.
+This mod can be safely added or removed from your savegame after the game has started.  It alters a single game object, but will not negatively impact your savegame.  If you remove it, your game will work normally.
 
 ## Changelog
 
